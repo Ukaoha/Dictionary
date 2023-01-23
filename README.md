@@ -2,7 +2,7 @@
 ### An online English dictionary , built with React Js with Vocal prononciation and symbol representation .
  Live link: [Live site](https://worddiction.netlify.app)
 
-## Screenshot ![preview of the site](./Image/React-App(1).png)
+## Screenshot ![preview of the site](./src/images/React-App%20(1).png)
 
 
 # Getting Started with Create React App
