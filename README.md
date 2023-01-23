@@ -1,3 +1,10 @@
+# Dictionary 
+### An online English dictionary , built with React Js with Vocal prononciation and symbol representation .
+### Live site - [Live site] ('https://worddiction.netlify.app'])
+
+## Screenshot ![preview of the site] (Image/React-App(1).png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
